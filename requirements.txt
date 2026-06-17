@@ -1,0 +1,4 @@
+numpy==2.4.6
+pycountry==26.2.16
+reverse_geocoder==1.5.1
+scipy==1.17.1
