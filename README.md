@@ -5,7 +5,7 @@ Once replicated in appropriate env, add the reference csv into your workspace, a
 
 gps.py = my main.py here
 
-**Script has some error handling for formatting on csv file however if possible*8
+**Script has some error handling for formatting on csv file however if possible**
 
 col 1 = 
 lat
