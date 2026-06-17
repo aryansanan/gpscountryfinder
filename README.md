@@ -22,3 +22,5 @@ coord 3
 Nothing else needed. 
 
 Output = new csv generated with countries, country code, and approx nearest location
+
+Will create a quick front end for later
